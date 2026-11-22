@@ -1,0 +1,2 @@
+# PYTHIA_Cards_4_DS_WhitePaper
+In the regime of Hidden Valley Models (HVM) theories, one of the most known Monte Carlo Event Generators is PYTHIA8, with the HV module as one of the most used along the communitty for modelling Semi-Visible Jets (SVJs), Emerging jets, etc. But between different versions, major changes were done between them, such as the hadronisation scheme. Here we will show how the PTYHIA cards need to be changed to get backwards compatibiility, which changes we did at the physical and coding analysis.
